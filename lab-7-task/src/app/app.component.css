@@ -1,0 +1,7 @@
+.app {
+    background-color: #1f2a38;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+}
